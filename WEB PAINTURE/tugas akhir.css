@@ -1,0 +1,115 @@
+body {
+  font-family: "calibri", Times, serif, sans-serif;
+  line-height: 1.6;
+  background-color: azure;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 900px;
+  padding: 20px;
+}
+
+.content {
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+.img1,
+.img2 {
+  display: inline-block;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  max-width: 100%;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.footer {
+  background-color: rgb(203, 243, 249);
+  padding: 20px;
+  text-align: center;
+}
+
+.judul {
+  text-align: center;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+.navbar {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: right;
+}
+
+.navbar a {
+  text-decoration: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  color: black;
+}
+
+/* css untuk halaman layanan*/
+.layanan {
+  font-size: 25px;
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.layanan_ilustrasi {
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.kumpulan {
+  text-align: center;
+}
+
+.fanart {
+  background-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-size: 2;
+  display: inline-block;
+}
+
+.barter {
+  background-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-size: 2;
+}
+
+/* css untuk halaman tentang kami */
+
+.profil {
+  background-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+}
